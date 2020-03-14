@@ -1,0 +1,6 @@
+C:\Users\MrKim\Desktop\CSharp\First Console app\First Console App\bin\Debug\First Console App.exe.config
+C:\Users\MrKim\Desktop\CSharp\First Console app\First Console App\bin\Debug\First Console App.exe
+C:\Users\MrKim\Desktop\CSharp\First Console app\First Console App\bin\Debug\First Console App.pdb
+C:\Users\MrKim\Desktop\CSharp\First Console app\First Console App\obj\Debug\First Console App.csprojAssemblyReference.cache
+C:\Users\MrKim\Desktop\CSharp\First Console app\First Console App\obj\Debug\First Console App.exe
+C:\Users\MrKim\Desktop\CSharp\First Console app\First Console App\obj\Debug\First Console App.pdb
